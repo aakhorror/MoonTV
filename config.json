@@ -84,9 +84,6 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
-    }
-    "didizy": {
-      "api": "https://api.ddapi.cc/api.php/provide/vod",
-      "name": "滴滴资源站" 
+    },
   }
 }
