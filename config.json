@@ -87,7 +87,6 @@
     }
     "didizy": {
       "api": "https://api.ddapi.cc/api.php/provide/vod",
-      "name": "滴滴资源站"
-    }
+      "name": "滴滴资源站" 
   }
 }
