@@ -88,6 +88,10 @@
     "laosebizy": {
       "api": "https://apilsbzy1.com/api.php/provide/vod",
       "name": "老色逼资源站"
+    },
+    "155zy": {
+      "api": "https://155api.com/api.php/provide/vod",
+      "name": "155资源站"
     }
   }
 }
